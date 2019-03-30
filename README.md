@@ -2,6 +2,7 @@
 ## Book Karo - Room Booking Web App Development
 
 ## Web Application built usign HTML, CSS and AngularJS
+## Database - MySQL
 
 ### Members
 Adya Kiran <br>
