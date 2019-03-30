@@ -5,7 +5,11 @@
 
 ### Members
 Adya Kiran <br>
-Giffin Suresh
+Aparna Raju <br>
+Giffin Suresh <br>
+Harita Reddy <br>
+Namratha Raj M<br>
+Shruti Tiwari
 
 ### We have three different kinds of users
 
