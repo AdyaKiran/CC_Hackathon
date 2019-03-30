@@ -1,5 +1,5 @@
 # CC-Hackathon
-## Room Booking Web App Development
+## Book Karo - Room Booking Web App Development
 
 ## Web Application built usign HTML, CSS and AngularJS
 
@@ -13,19 +13,16 @@ Shruti Tiwari
 
 Book Karo is our website that utilizes the enormous number of rooms left empty when students residing in hostels leave for the holidays and the college guest houses that remain mostly unoccupied throughout the year. 
 
-### We have three different kinds of users
+We will have three different kinds of users
 
 ### 1)Student
-
 Students can create an account and decide if they want to rent out their rooms or not.
 
 ### 2)Administrator
-
 Has admin privilieges. 
 Handles the booking
 
 ### 3)Customer
-
 Creates an account to view and book rooms
 
 ## Development server
