@@ -1,6 +1,22 @@
-# Hackathon
+# CC-Hackathon
+## Room Booking Web App Development
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
+## Web Application built usign HTML, CSS and AngularJS
+
+### We have three different kinds of users
+
+### 1)Student
+
+Students can create an account and decide if they want to rent out their rooms or not.
+
+### 2)Administrator
+
+Has admin privilieges. 
+Handles the booking
+
+### 3)Customer
+
+Creates an account to view and book rooms
 
 ## Development server
 
