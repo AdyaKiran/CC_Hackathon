@@ -4,7 +4,7 @@
 ## Web Application built usign HTML, CSS and AngularJS
 
 ### Members
-Adya Kiran\n
+Adya Kiran <br>
 Giffin Suresh
 
 ### We have three different kinds of users
