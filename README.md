@@ -3,6 +3,10 @@
 
 ## Web Application built usign HTML, CSS and AngularJS
 
+### Members
+Adya Kiran\n
+Giffin Suresh
+
 ### We have three different kinds of users
 
 ### 1)Student
