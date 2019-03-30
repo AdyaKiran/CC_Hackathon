@@ -11,6 +11,8 @@ Harita Reddy <br>
 Namratha Raj M<br>
 Shruti Tiwari
 
+Book Karo is website that utilizes the enormous number of rooms left empty when students residing in hostels leave for the holidays and the college guest houses that remain mostly unoccupied throughout the year. 
+
 ### We have three different kinds of users
 
 ### 1)Student
